@@ -13,7 +13,7 @@ The format seeks to support the following election scenarios:
 3. exchange of ballot style identifier information between full-face paper ballots and scanners; and
 4. other applications that require software independent (e.g. paper) information exchange.
 
-Please contact [John Dziurlaj](mailto:john@turnout.rocks) with questions and for more information.
+Please contact the [NIST Voting Team](mailto:voting@nist.gov) with questions and for more information.
 
 ## Repo Structure
 
